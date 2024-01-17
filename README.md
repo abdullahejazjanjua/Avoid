@@ -38,6 +38,5 @@ Projects leverage a variety of technologies, including:
 
 ## Acknowledgments
 
-Gratitude to my instructors for guiding these projects, pivotal to my growth as a developer.
-
-Feel free to explore, provide feedback, or reach out. Thank you for visiting my Semester Projects Repository!
+Gratitude to my instructors for guiding these projects, pivotal to my growth as a programmer.
+Feel free to explore, provide feedback, or reach out. Thank you for visiting my Avoid Repository!
