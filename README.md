@@ -1,5 +1,4 @@
 # Avoid
-# Hangman
 
 - **Description:** This C++ program simulates a robot's movement in an obstacle-filled environment. It generates random sensor readings, stores them in an array, and uses a simple algorithm to determine the robot's optimal movement direction based on the maximum sensor value.
 - **How to Run:**
@@ -13,7 +12,7 @@
        ```bash
        g++ avoid.cpp -o avoid
        ```
-  3. Run the game.
+  3. Run the program.
      ```bash
      ./avoid
      ```
