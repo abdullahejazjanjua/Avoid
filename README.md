@@ -25,7 +25,7 @@
   <img src="Avoid_SS/Avoid_display.png" alt="Screenshot 1">
 </p>
 <p align="center">
-  This is what you will see when you run the program
+  The robot will move in the direction that has the largest value
 </p>
 
 
